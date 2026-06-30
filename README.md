@@ -43,7 +43,7 @@
 
 ## 🌐 Connect with Me
 
-[![mariyachikhly84@gmail.com](https://img.shields.io/badge/mariyachikhly84%40gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariyachikhly84@gmail.com)
+[![Email](https://img.shields.io/badge/mariyachikhly84%40gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariyachikhly84@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariya-chikhly/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mariya4321)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mariya_Chikhly/)
