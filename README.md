@@ -4,7 +4,7 @@
 
 ## 👩‍💻 About Me
 - 🌱 Currently learning Microservices, Docker & AWS
-- ☕ Java | Spring Boot | React | MySQL
+- ☕ Java | Spring Boot | Angular | PostgreSQL
 - 🚀 Passionate about building scalable web applications
 - 📫 Email: [mariyachikhly84@gmail.com](mailto:mariyachikhly84@gmail.com)
 
@@ -12,10 +12,10 @@
 
 - Java
 - Spring Boot
-- React
+- Angular
 - JavaScript
 - HTML
 - CSS
-- MySQL
+- PostgreSQL
 - Git
 - GitHub
