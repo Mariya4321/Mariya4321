@@ -10,8 +10,8 @@
 
 ## 🛠 Tech Stack
 
-- [Java](https://www.java.com/)
-- [Spring Boot](https://spring.io/projects/spring-boot)
+- Java
+- Spring Boot
 - Angular
 - JavaScript
 - HTML
